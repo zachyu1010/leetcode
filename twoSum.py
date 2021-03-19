@@ -10,4 +10,4 @@ class Solution:
 if __name__ == "__main__":
     x = Solution()
     ans = x.twoSum([-1, -2, -3, -4, -5], -8)
-    print(ans);
+    print(ans)
